@@ -1,2 +1,2 @@
 # Calculadora-de-IMC
-App calculadora de IMC feito com React Native
+Este é um App de Calculadora de IMC feito com React Native e Expo.
